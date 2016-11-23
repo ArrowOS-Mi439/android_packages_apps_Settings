@@ -104,4 +104,8 @@
 
     <!-- App details: open play store link -->
     <string name="app_play_store">Google Play</string>
+
+    <!-- Volume button music control -->
+    <string name="volume_button_music_control_title">Playback control</string>
+    <string name="volume_button_music_control_summary">When the screen is off, long-pressing volume keys will skip music tracks</string>
 </resources>
